@@ -36,7 +36,7 @@ function creat_table($t){
     ?>
     <?php
         echo creat_link($url,$txt);
-        echo $url_array[3][0]. " ". $url_array[3][1];
+        echo $url_array[0][0]. " ". $url_array[0][1];
     ?>
     <ol>
     <?php
